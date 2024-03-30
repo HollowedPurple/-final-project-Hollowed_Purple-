@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <style>
+        /* Your CSS styles here */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Header - Home Page</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="charities.html">Charities List</a></li>
+        </ul>
+    </nav>
+
+    <div class="content">
+        <h2>Welcome to our website!</h2>
+        <p>This is the home page content. HelpHub is an access point in which users can navigate to when there is issues or problems with said portion. It is a very helpful tool that is easily accessible and open. </p>
+    </div>
+
+    <footer>
+        <p>Footer - Home Page</p>
+    </footer>
+</body>
+</html>
